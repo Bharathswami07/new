@@ -1,5 +1,5 @@
 const config = {
-  backendUrl: 'https://mental-wellness-application.onrender.com',
+  backendUrl: 'https://new-i7wz.onrender.com',
 };
 
 export default config;
